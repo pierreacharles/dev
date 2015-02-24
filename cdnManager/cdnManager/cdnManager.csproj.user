@@ -3,6 +3,16 @@
   <PropertyGroup>
     <SharePointSiteUrl>https://rencore.sharepoint.com/sites/hugh/</SharePointSiteUrl>
     <ProjectView>ProjectFiles</ProjectView>
+    <OfficeAndSharePointStartAction>Internet Explorer</OfficeAndSharePointStartAction>
   </PropertyGroup>
-  <ProjectExtensions />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{C1CDDADD-2546-481F-9697-4EA41081F2FC}">
+        <ProjectStore>
+          <AppInstancePackageModifiedTime>2015-02-24T04:03:05.2543428Z</AppInstancePackageModifiedTime>
+          <AppInstanceId>171af417-87ae-4665-abe7-8792fabfe0d7</AppInstanceId>
+        </ProjectStore>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
 </Project>
